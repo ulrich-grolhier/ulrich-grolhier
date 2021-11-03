@@ -5,6 +5,7 @@
 ## I'm a student and IT
 
 - 💼 I'm currently working to [Adapei16][job] as IT
+- 📚 I'm currently studing to [CFAI Poitou Charente][school] to Poitiers, FRANCE
 - 🌱 I'm currently learning DevSecOps
 - 🥅 2022 Goals: devote myself more to development projects
 
@@ -46,3 +47,4 @@
 [docker]:https://www.docker.com
 
 [job]:https://adapei-charente.fr
+[school]:https://www.fi-pc.fr/
