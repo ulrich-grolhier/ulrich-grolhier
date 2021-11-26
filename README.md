@@ -2,11 +2,10 @@
 
 ## Hi there, I'm Ulrich - aka [Ulrichinho][website]👋
 
-## I'm a student and IT
+## I'm an IT student
 
 - 💼 I'm currently working to [Adapei16][job] as IT
 - 📚 I'm currently studing to [CFAI Poitou Charente][school] to Poitiers, FRANCE
-- 🌱 I'm currently learning DevSecOps
 - 🥅 2022 Goals: devote myself more to development projects
 
 - ⚡Fun fact: I love to run and code
@@ -32,7 +31,6 @@
 <img align="left" width="26px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" width="26px" alt="Powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png">
 [<img align="left" width="26px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][mysql]
-[<img align="left" width="26px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">][docker]
 
 [website]: https://ugrolhier.fr
 [mail]: mailto:grolhier.u@gmail.com
@@ -44,6 +42,5 @@
 [git]: https://git-scm.com
 [github]: https://github.com
 [mysql]: https://www.mysql.com
-[docker]: https://www.docker.com
 [job]: https://adapei-charente.fr
 [school]: https://www.fi-pc.fr/
