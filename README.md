@@ -4,12 +4,6 @@
 
 ## I'm an IT student
 
-- 💼 I'm currently working to [Adapei16][job] as IT
-- 📚 I'm currently studing to [CFAI Poitou Charente][school] to Poitiers, FRANCE
-- 🥅 2022 Goals: devote myself more to development projects
-
-- ⚡Fun fact: I love to run and code
-
 ### Connect with me
 
 [<img align="left" alt="ugrolhier.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
