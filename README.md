@@ -4,13 +4,6 @@
 
 ## I'm an IT student
 
-### Connect with me
-
-[<img align="left" alt="ugrolhier.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ulrichinho | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg">][mail]
-[<img align="left" alt="Ulrichinho | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" color="blue">][twitter]
-[<img align="left" alt="Ulrichinho | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg">][linkedin]
-
 <br>
 
 ### Languages and Tools
