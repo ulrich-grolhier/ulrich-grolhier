@@ -1,12 +1,12 @@
-# Ulrichinho
+# Ulrich Grolhier
 
-## Hi there, I'm Ulrich - aka [Ulrichinho][website]👋
+## Hi there, I'm Ulrich and I'm 20 ;)
 
-## I'm an IT student
+I'm a cybersecurity engineering student.
 
 <br>
 
-### Languages and Tools
+### Languages and Tools 
 
 [<img align="left" width="26px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
 <img align="left" width="26px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -19,9 +19,6 @@
 <img align="left" width="26px" alt="Powershell" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png">
 [<img align="left" width="26px" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">][mysql]
 
-[website]: https://ugrolhier.fr
-[mail]: mailto:grolhier.u@gmail.com
-[twitter]: https://www.twitter.com/@GrolhierU
 [linkedin]: https://www.linkedin.com/in/ulrich-grolhier-955160214/
 [vscode]: https://code.visualstudio.com
 [python]: https://www.python.org
@@ -29,5 +26,3 @@
 [git]: https://git-scm.com
 [github]: https://github.com
 [mysql]: https://www.mysql.com
-[job]: https://adapei-charente.fr
-[school]: https://www.fi-pc.fr/
